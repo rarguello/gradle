@@ -126,7 +126,6 @@
             <pathelement path="/usr/share/java/jnr-posix.jar"/>
             <pathelement path="output/cli"/>
             <pathelement path="output/native"/>
-            <pathelement path="/usr/share/java/commons-cli.jar"/>
 
             <!-- FIXME -->
             <fileset dir="lib" includes="*.jar"/>
